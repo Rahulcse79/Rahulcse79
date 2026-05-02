@@ -35,7 +35,7 @@
 
 | Project | PR / Issue | Description | Status |
 | :--- | :--- | :--- | :---: |
-| [`archestra-ai/archestra`](https://github.com/archestra-ai/archestra) ⭐ 3.6k | [PR #4291](https://github.com/archestra-ai/archestra/pull/4291) | Fixed Ollama API key requirement & added Docker `localhost` connectivity hint (+91 / 2 files) | ✅ Merged |
+| [`archestra-ai/archestra`](https://github.com/archestra-ai/archestra) ⭐ 3.6k | [PR #4291](https://github.com/archestra-ai/archestra/pull/4291) | Fixed Ollama API key requirement & added Docker `localhost` connectivity hint (+91 / 2 files) | ✅ Done |
 | [`archestra-ai/archestra`](https://github.com/archestra-ai/archestra) ⭐ 3.6k | [Issue #4269](https://github.com/archestra-ai/archestra/issues/4269) | `run_tool` argument-shape validation hardening | 🚧 In Progress |
 | [`googlemaps/google-maps-services-python`](https://github.com/Rahulcse79/google-maps-services-python) | [PR #542](https://github.com/Rahulcse79/google-maps-services-python/pull/542) | feat: add advanced cache/batch features, expand hard test coverage (4/4 tasks complete) | ✅ Done |
 
