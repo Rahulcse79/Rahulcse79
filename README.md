@@ -37,10 +37,11 @@
 | :--- | :--- | :--- | :---: |
 | [`archestra-ai/archestra`](https://github.com/archestra-ai/archestra) ⭐ 3.6k | [PR #4291](https://github.com/archestra-ai/archestra/pull/4291) | Fixed Ollama API key requirement & added Docker `localhost` connectivity hint (+91 / 2 files) | ✅ Merged |
 | [`archestra-ai/archestra`](https://github.com/archestra-ai/archestra) ⭐ 3.6k | [Issue #4269](https://github.com/archestra-ai/archestra/issues/4269) | `run_tool` argument-shape validation hardening | 🚧 In Progress |
+| [`googlemaps/google-maps-services-python`](https://github.com/Rahulcse79/google-maps-services-python) | [PR #542](https://github.com/Rahulcse79/google-maps-services-python/pull/542) | feat: add advanced cache/batch features, expand hard test coverage (4/4 tasks complete) | ✅ Done |
 
 </div>
 
-> 💡 **Contributor to a 3.6k+ star MCP-native AI infrastructure project** — shipping fixes that improve developer experience for self-hosted LLM workflows.
+> 💡 **Contributor to a 3.6k+ star MCP-native AI infrastructure project** and to **Google Maps Services Python** — shipping fixes that improve developer experience across AI infra and cloud SDK ecosystems.
 
 <hr />
 
@@ -127,10 +128,10 @@
 
 <div align="center">
 
-<a href="https://github.com/Rahulcse79">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulcse79&repo=AI-IVR-Voice-Agent&theme=tokyonight&hide_border=true" alt="AI-Powered Real-Time IVR Voice Agent" />
+<a href="https://github.com/Rahulcse79/mod_audio_stream-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulcse79&repo=mod_audio_stream-1&theme=tokyonight&hide_border=true" alt="AI-Powered Real-Time IVR Voice Agent (FreeSWITCH mod_audio_stream)" />
 </a>
-<a href="https://github.com/Rahulcse79">
+<a href="https://github.com/Rahulcse79/Dressly">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulcse79&repo=Dressly&theme=tokyonight&hide_border=true" alt="Dressly — Full-Stack E-Commerce" />
 </a>
 
@@ -149,13 +150,13 @@ JWT + bcrypt auth hardened for **1K+** concurrent sessions in production.
 <div align="center">
 
 <a href="https://github.com/Rahulcse79">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulcse79&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Rahulcse79&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </a>
 <a href="https://github.com/Rahulcse79">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulcse79&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulcse79&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top languages" />
 </a>
 <a href="https://github.com/Rahulcse79">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahulcse79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahulcse79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" alt="GitHub stats" />
 </a>
 
 </div>
@@ -191,7 +192,7 @@ JWT + bcrypt auth hardened for **1K+** concurrent sessions in production.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-singh-a32261206)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulcse79)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rahulcse79)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-voice-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-voice-portfolio.onrender.com/?agentConfig=ResumeAiScenario)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.singh.cse79@gmail.com)
 
 </div>
@@ -204,6 +205,6 @@ JWT + bcrypt auth hardened for **1K+** concurrent sessions in production.
 
 <br />
 
-![Visitors](https://visitcount.itsvg.in/api?id=Rahulcse79&label=Profile%20Visitors&color=6366F1&pretty=true)
+![Visitors](https://komarev.com/ghpvc/?username=Rahulcse79&label=Profile%20Visitors&color=6366F1&style=flat-square)
 
 </div>
