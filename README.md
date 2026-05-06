@@ -162,7 +162,7 @@ JWT + bcrypt auth hardened for **1K+** concurrent sessions in production.
 
 <hr />
 
-## 🧠 **LeetCode start**
+## 🧠 **LeetCode status**
 
 <div align="center">
 
