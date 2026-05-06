@@ -35,7 +35,7 @@
 
 | Project | PR / Issue | Description | Status |
 | :--- | :--- | :--- | :---: |
-| [`archestra-ai/archestra`](https://github.com/archestra-ai/archestra) ⭐ 3.6k | [PR #4291](https://github.com/archestra-ai/archestra/pull/4365) | LGTM `localhost` connectivity hint (+91 / 2 files) | ✅ Done |
+| [`archestra-ai/archestra`](https://github.com/archestra-ai/archestra) ⭐ 3.6k | [PR #4291](https://github.com/archestra-ai/archestra/pull/4365) | LGTM issue in chat box | ✅ Done |
 | [`googlemaps/google-maps-services-python`](https://github.com/Rahulcse79/google-maps-services-python) | [PR #542](https://github.com/Rahulcse79/google-maps-services-python/pull/542) | feat: add advanced cache/batch features, expand hard test coverage (4/4 tasks complete) | ✅ Done |
 
 </div>
