@@ -167,7 +167,7 @@ JWT + bcrypt auth hardened for **1K+** concurrent sessions in production.
 <div align="center">
 
 <a href="https://leetcode.com/u/rahulcse79">
-  <img src="https://leetcode.com/u/rahulcse79/" alt="Rahul Singh — LeetCode profile (Top 8% globally)" />
+  <img src="https://leetcard.jacoblin.cool/rahulcse79?theme=dark&font=ABeeZee&ext=contest" alt="Rahul Singh — LeetCode stats" />
 </a>
 
 </div>
